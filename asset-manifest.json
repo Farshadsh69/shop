@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/shop/static/css/main.a1e9f7c1.css",
+    "main.js": "/shop/static/js/main.eb64cfcd.js",
+    "static/js/787.4f54a97c.chunk.js": "/shop/static/js/787.4f54a97c.chunk.js",
+    "static/media/brand.jpg": "/shop/static/media/brand.38fb2df24babe3eb10b3.jpg",
+    "static/media/disCuont.png": "/shop/static/media/disCuont.9bcfb9b836f062979af0.png",
+    "static/media/6.png": "/shop/static/media/6.e2fc123279519db81e07.png",
+    "static/media/1.png": "/shop/static/media/1.0ad7c1f39b8d10ecb133.png",
+    "static/media/4.png": "/shop/static/media/4.3cdd608e7faf7d3f196e.png",
+    "static/media/2.png": "/shop/static/media/2.a09e3f5cd1e58043fdf5.png",
+    "static/media/3.png": "/shop/static/media/3.15a99f45424a61b5cff3.png",
+    "static/media/5.png": "/shop/static/media/5.a31256e8de2ade56826f.png",
+    "static/media/Percentage.png": "/shop/static/media/Percentage.eb9517bc55435edaec47.png",
+    "index.html": "/shop/index.html",
+    "main.a1e9f7c1.css.map": "/shop/static/css/main.a1e9f7c1.css.map",
+    "main.eb64cfcd.js.map": "/shop/static/js/main.eb64cfcd.js.map",
+    "787.4f54a97c.chunk.js.map": "/shop/static/js/787.4f54a97c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a1e9f7c1.css",
+    "static/js/main.eb64cfcd.js"
+  ]
+}
