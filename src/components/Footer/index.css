@@ -1,0 +1,10 @@
+ul{
+    line-height: 2;
+}
+ul a{
+    color:#999999;
+    font-size: 14px;
+}
+ul a:hover{
+    color: rgb(92, 193, 185);
+}

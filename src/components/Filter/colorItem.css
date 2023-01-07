@@ -1,0 +1,6 @@
+.h6Hover{
+display: none;
+}
+.divHover :hover {
+    width: 30px;
+}

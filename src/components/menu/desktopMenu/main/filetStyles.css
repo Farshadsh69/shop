@@ -1,0 +1,11 @@
+ul li{
+    list-style-type: none;
+}
+li a{
+    text-decoration: none;
+    color: #4c504e;
+}
+li a:hover{
+    color: rgb(92, 193, 185);
+    transition: 0.3s;
+}
